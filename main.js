@@ -13,10 +13,10 @@
 
     // autoplay: false,视屏是否自动播放
 
-    // isMobile: window.matchMedia('(max-width: 768px)').matches,
+    isMobile: window.matchMedia('(max-width: 768px)').matches,
 
-    // playButton: document.querySelector('#play'),
-    // pauseButton: document.querySelector('#pause'),
+    playButton: document.querySelector('#play'),
+    pauseButton: document.querySelector('#pause'),
 
     // Array of objects containing the src and type
     // of different video formats to add
