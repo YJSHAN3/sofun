@@ -11,7 +11,7 @@
     // Resize
     resize: true,
 
-    // autoplay: false,视屏是否自动播放
+    autoplay: true, // 视屏是否自动播放
 
     isMobile: window.matchMedia('(max-width: 768px)').matches,
 
