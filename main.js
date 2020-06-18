@@ -13,7 +13,7 @@
 
     autoplay: true, // 视屏是否自动播放
 
-    isMobile: window.matchMedia('(max-width: 68px)').matches,
+    isMobile: window.matchMedia('(max-width: 768px)').matches,
 
     playButton: document.querySelector('#play'),
     pauseButton: document.querySelector('#pause'),
