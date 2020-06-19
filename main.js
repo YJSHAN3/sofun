@@ -22,7 +22,8 @@
     // of different video formats to add
     src: [
       {
-        src: 'Spedometer-merge.mp4',
+//         src: 'Spedometer-merge.mp4',
+        src: '33.mp4',
         type: 'video/mp4'
       },
       {
